@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694963735 source:c:\gabi\code\exc\ex9\main.c
+	<stdio.h>
+	<stdlib.h>
+
